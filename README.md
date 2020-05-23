@@ -1,1 +1,1 @@
-# git_test
+This is Marissa's first Git project!
